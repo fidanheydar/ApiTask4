@@ -1,0 +1,896 @@
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\libman.json
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\appsettings.json
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Api.staticwebassets.runtime.json
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Api.exe
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Api.deps.json
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Api.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Api.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Api.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Humanizer.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\MicroElements.OpenApi.FluentValidation.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\MicroElements.Swashbuckle.FluentValidation.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\staticwebassets\msbuild.UniversityApp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\staticwebassets\msbuild.build.UniversityApp.Api.props
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UniversityApp.Api.props
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UniversityApp.Api.props
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\scopedcss\bundle\UniversityApp.Api.styles.css
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\Universi.CF66CEB6.Up2Date
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\refint\UniversityApp.Api.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\obj\Debug\net8.0\ref\UniversityApp.Api.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Core.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Core.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Service.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Service.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\appsettings.json
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\libman.json
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Api.staticwebassets.runtime.json
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Api.exe
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Api.deps.json
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Api.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Api.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Api.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Humanizer.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\MicroElements.OpenApi.FluentValidation.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\MicroElements.Swashbuckle.FluentValidation.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Core.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Service.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Service.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Core.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\bin\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.sourcelink.json
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\staticwebassets\msbuild.UniversityApp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\staticwebassets\msbuild.build.UniversityApp.Api.props
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UniversityApp.Api.props
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UniversityApp.Api.props
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\scopedcss\bundle\UniversityApp.Api.styles.css
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\Universi.CF66CEB6.Up2Date
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\refint\UniversityApp.Api.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\UniversityApp.Api.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApi\obj\Debug\net8.0\ref\UniversityApp.Api.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\libman.json
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.staticwebassets.runtime.json
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.exe
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.deps.json
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\MicroElements.OpenApi.FluentValidation.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\MicroElements.Swashbuckle.FluentValidation.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Core.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Service.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Service.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Core.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.sourcelink.json
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.UniversityApp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.UniversityApp.Api.props
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UniversityApp.Api.props
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UniversityApp.Api.props
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\scopedcss\bundle\UniversityApp.Api.styles.css
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\Universi.CF66CEB6.Up2Date
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\refint\UniversityApp.Api.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\ref\UniversityApp.Api.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\libman.json
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.staticwebassets.runtime.json
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.exe
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.deps.json
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.runtimeconfig.json
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.pdb
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\MicroElements.OpenApi.FluentValidation.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\MicroElements.Swashbuckle.FluentValidation.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Core.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Service.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Service.pdb
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Core.pdb
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.AssemblyInfo.cs
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.UniversityApp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.UniversityApp.Api.props
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UniversityApp.Api.props
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UniversityApp.Api.props
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\scopedcss\bundle\UniversityApp.Api.styles.css
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\Universi.CF66CEB6.Up2Date
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\refint\UniversityApp.Api.dll
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.pdb
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.genruntimeconfig.cache
+C:\Users\HP\Desktop\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\ref\UniversityApp.Api.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\libman.json
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.staticwebassets.runtime.json
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.exe
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.deps.json
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.runtimeconfig.json
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.pdb
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\MicroElements.OpenApi.FluentValidation.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\MicroElements.Swashbuckle.FluentValidation.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Core.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Service.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Service.pdb
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Core.pdb
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.AssemblyInfo.cs
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.UniversityApp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.UniversityApp.Api.props
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UniversityApp.Api.props
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UniversityApp.Api.props
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\scopedcss\bundle\UniversityApp.Api.styles.css
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\Universi.CF66CEB6.Up2Date
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\refint\UniversityApp.Api.dll
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.pdb
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.genruntimeconfig.cache
+C:\Users\HP\Desktop\UniversityAppApi\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\ref\UniversityApp.Api.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\libman.json
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.staticwebassets.runtime.json
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.exe
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.deps.json
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.runtimeconfig.json
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Api.pdb
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\MicroElements.OpenApi.FluentValidation.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\MicroElements.Swashbuckle.FluentValidation.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Core.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Service.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Service.pdb
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Core.pdb
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\bin\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.AssemblyInfo.cs
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.UniversityApp.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.UniversityApp.Api.props
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UniversityApp.Api.props
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UniversityApp.Api.props
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\scopedcss\bundle\UniversityApp.Api.styles.css
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\Universi.CF66CEB6.Up2Date
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\refint\UniversityApp.Api.dll
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.pdb
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\UniversityApp.Api.genruntimeconfig.cache
+C:\Users\HP\Desktop\UniApiTask\UniversityApp\UniversityApp.Api\obj\Debug\net8.0\ref\UniversityApp.Api.dll

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "KZBIufMKrLwvHV+OoW1AebxrKfOWaM0dYTD2CHeS4K4=",
+  "Source": "UniversityApp.Api",
+  "BasePath": "_content/UniversityApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UniversityApp.Api\\wwwroot",
+      "Source": "UniversityApp.Api",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UniApiTask\\UniversityApp\\UniversityApp.Api\\wwwroot\\",
+      "BasePath": "_content/UniversityApp.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\UniApiTask\\UniversityApp\\UniversityApp.Api\\wwwroot\\uploads\\students\\2551cb49-881e-4825-905c-73bb64ef6c13course-bg.jpg",
+      "SourceId": "UniversityApp.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UniApiTask\\UniversityApp\\UniversityApp.Api\\wwwroot\\",
+      "BasePath": "_content/UniversityApp.Api",
+      "RelativePath": "uploads/students/2551cb49-881e-4825-905c-73bb64ef6c13course-bg.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\students\\2551cb49-881e-4825-905c-73bb64ef6c13course-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\UniApiTask\\UniversityApp\\UniversityApp.Api\\wwwroot\\uploads\\students\\87a7da65-1e9a-4233-8105-a4effa24812dcourse1.jpg",
+      "SourceId": "UniversityApp.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UniApiTask\\UniversityApp\\UniversityApp.Api\\wwwroot\\",
+      "BasePath": "_content/UniversityApp.Api",
+      "RelativePath": "uploads/students/87a7da65-1e9a-4233-8105-a4effa24812dcourse1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\students\\87a7da65-1e9a-4233-8105-a4effa24812dcourse1.jpg"
+    }
+  ]
+}

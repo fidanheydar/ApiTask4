@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\UniApiTask\\UniversityApp\\UniversityApp.Api\\wwwroot\\uploads\\students\\2551cb49-881e-4825-905c-73bb64ef6c13course-bg.jpg",
+      "PackagePath": "staticwebassets\\uploads\\students\\2551cb49-881e-4825-905c-73bb64ef6c13course-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\UniApiTask\\UniversityApp\\UniversityApp.Api\\wwwroot\\uploads\\students\\87a7da65-1e9a-4233-8105-a4effa24812dcourse1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\students\\87a7da65-1e9a-4233-8105-a4effa24812dcourse1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UniversityApp.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UniversityApp.Api.props",
+      "PackagePath": "build\\UniversityApp.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UniversityApp.Api.props",
+      "PackagePath": "buildMultiTargeting\\UniversityApp.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UniversityApp.Api.props",
+      "PackagePath": "buildTransitive\\UniversityApp.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
